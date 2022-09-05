@@ -1,3 +1,3 @@
-def countToTen():
-  for i in range(10):
+def countToN(n):
+  for i in range(n):
     print(i)
